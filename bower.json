@@ -1,0 +1,25 @@
+{
+  "name": "Workflow Gulp",
+  "description": "Workflow Gulp",
+  "main": "index.js",
+  "authors": [
+    "Guilherme Chinaglia"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Workflow",
+    "Gulp",
+    "Task"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
